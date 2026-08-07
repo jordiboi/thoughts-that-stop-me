@@ -1281,3 +1281,8 @@ a {
 .rich-review-content p + div {
   margin-top: 1em;
 }
+
+/* Review title sizing */
+.full-review-header h1 {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+}

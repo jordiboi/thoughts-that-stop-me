@@ -5,6 +5,1105 @@
 
 window.VIDEO_LIBRARY = [
   {
+    "id": "crash-course-philosophy-preview",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Crash Course Philosophy Preview",
+    "creator": "CrashCourse",
+    "youtubeId": "BNYJQaZUDrI",
+    "description": "This is the first episode of a long youtube course that summarizes Philosophy.",
+    "keywords": [],
+    "reviewPage": "../reviews/crash-course-philosophy-preview.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T21:20:51.193Z"
+  },
+  {
+    "id": "zombie-kid-likes-turtles",
+    "categories": [
+      "classic-yt"
+    ],
+    "title": "Zombie Kid Likes Turtles",
+    "creator": "CaptJax458",
+    "youtubeId": "CMNry4PE93Y",
+    "description": "I like Turtles",
+    "keywords": [],
+    "reviewPage": "../reviews/zombie-kid-likes-turtles.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T19:59:25.595Z"
+  },
+  {
+    "id": "everyone-gets-the-trolley-problem-wrong",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Everyone Gets The Trolley Problem Wrong",
+    "creator": "The Splinter In Your Eye",
+    "youtubeId": "uYRB88Rcx0Q",
+    "description": "In depth about the trolley problem.",
+    "keywords": [],
+    "reviewPage": "../reviews/everyone-gets-the-trolley-problem-wrong.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-god-question-keeping-these-atheists-up-at-night",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The GOD Question Keeping these Atheists Up at Night",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "rQ1VNVrmi_I",
+    "description": "Why is there something rather than nothing?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-god-question-keeping-these-atheists-up-at-night.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "is-ai-conscious",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Is AI Conscious?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "hh5PgNJDNlo",
+    "description": "Is AI conscious, a funny response at the end!",
+    "keywords": [],
+    "reviewPage": "../reviews/is-ai-conscious.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "can-you-answer-these-ethical-dilemmas",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Can You Answer These Ethical Dilemmas?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "Ni2pjifD-80",
+    "description": "A few ethical dilemmas!",
+    "keywords": [],
+    "reviewPage": "../reviews/can-you-answer-these-ethical-dilemmas.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-world-s-most-hated-philosophy-moral-relativism",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The World's Most Hated Philosophy | Moral Relativism",
+    "creator": "Unsolicited advice",
+    "youtubeId": "hic11P9-7XE",
+    "description": "Moral relativism, a video essay.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-world-s-most-hated-philosophy-moral-relativism.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "is-science-objective-the-philosophy-of-science",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Is Science Objective? | The Philosophy of Science",
+    "creator": "Unsolicited advice",
+    "youtubeId": "G-sSaJjbMao",
+    "description": "A video exploring the scientific project. The philosophy of science.",
+    "keywords": [],
+    "reviewPage": "../reviews/is-science-objective-the-philosophy-of-science.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "ruining-my-day-with-infuriating-philosophy-takes",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Ruining My Day with INFURIATING Philosophy Takes",
+    "creator": "Unsolicited advice",
+    "youtubeId": "LIFD1nyCNYw",
+    "description": "Just a funny video!",
+    "keywords": [],
+    "reviewPage": "../reviews/ruining-my-day-with-infuriating-philosophy-takes.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "every-single-logical-fallacy-explained",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Every Single Logical Fallacy Explained",
+    "creator": "Unsolicited advice",
+    "youtubeId": "TFlGhXeooPA",
+    "description": "Logic and logical fallacies explained (but not easily...).",
+    "keywords": [],
+    "reviewPage": "../reviews/every-single-logical-fallacy-explained.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "alex-o-connor-on-god-consciousness-and-changing-his-mind",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Alex O'Connor on God, consciousness, and changing his mind",
+    "creator": "Unsolicited advice",
+    "youtubeId": "_9OsTxOtOYk",
+    "description": "Podcast with Alex O'Connor. Discussing God, consciousness",
+    "keywords": [],
+    "reviewPage": "../reviews/alex-o-connor-on-god-consciousness-and-changing-his-mind.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "how-to-become-a-monster-nietzsche",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "How to Become a Monster | Nietzsche",
+    "creator": "Weltgeist",
+    "youtubeId": "tX4e_361PSA",
+    "description": "A video essay about some of Nietzsche's philosophy about seeking justice, and how any perfect system is in reality always flawed.",
+    "keywords": [],
+    "reviewPage": "../reviews/how-to-become-a-monster-nietzsche.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "is-occam-s-razor-stupid",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "Is Occam's Razor Stupid?",
+    "creator": "Fact Quickie",
+    "youtubeId": "VoR8R9ZQ12k",
+    "description": "Occam's Razor is one of the fundamental axioms of science. But is it stupid?",
+    "keywords": [],
+    "reviewPage": "../reviews/is-occam-s-razor-stupid.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "i-read-the-top-100-scientific-papers-of-all-time",
+    "categories": [
+      "science-related"
+    ],
+    "title": "I read the top 100 scientific papers of all time",
+    "creator": "Simon Clark",
+    "youtubeId": "4sLWRScmfH0",
+    "description": "A funny video with some strange conclusions. A worthy click-bait!",
+    "keywords": [],
+    "reviewPage": "../reviews/i-read-the-top-100-scientific-papers-of-all-time.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "stoicism-an-in-depth-explanation",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Stoicism: An In-Depth Explanation",
+    "creator": "Jared Henderson",
+    "youtubeId": "ggkd_uyDqz8",
+    "description": "What is Stoicism?",
+    "keywords": [],
+    "reviewPage": "../reviews/stoicism-an-in-depth-explanation.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "7-philosophy-books-for-beginners",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "7 Philosophy Books for Beginners",
+    "creator": "Jared Henderson",
+    "youtubeId": "5RwlFfTF3T0",
+    "description": "Just a fun video of book recommendations that I wanted to keep :)",
+    "keywords": [],
+    "reviewPage": "../reviews/7-philosophy-books-for-beginners.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-truth-about-stupid-people-that-got-socrates-killed-dunning-kruger-effect",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The Truth About Stupid People That Got Socrates Killed (Dunning-Kruger Effect)",
+    "creator": "Philosophy Coded",
+    "youtubeId": "wnCZUd0yiIE",
+    "description": "Who was Socrates? and why does it matter why he died?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-truth-about-stupid-people-that-got-socrates-killed-dunning-kruger-effect.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-hidden-problem-at-the-heart-of-nihilism-alex-o-connor",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The hidden problem at the heart of nihilism | Alex O'Connor",
+    "creator": "Big Think Clips",
+    "youtubeId": "VUJSsfbcMh0",
+    "description": "Alex O'Connor saying anything is always nice! \nWhat is Nihilism?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-hidden-problem-at-the-heart-of-nihilism-alex-o-connor.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-10-scariest-space-theories-ever",
+    "categories": [
+      "philosofy",
+      "physics"
+    ],
+    "title": "The 10 Scariest Space Theories Ever",
+    "creator": "Space Dude",
+    "youtubeId": "GDgUYbnjLpQ",
+    "description": "Some weird and quirky theories that have some scientific of philosophical backing.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-10-scariest-space-theories-ever.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "when-christopher-hitchens-broke-frank-turek-s-christianity-it-was-brutal",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "When Christopher Hitchens BROKE Frank Turek’s Christianity — It Was Brutal",
+    "creator": "Skeptic Scriptura",
+    "youtubeId": "2IbAvQKj5pE",
+    "description": "Just a classic Christopher Hitchens speach.",
+    "keywords": [],
+    "reviewPage": "../reviews/when-christopher-hitchens-broke-frank-turek-s-christianity-it-was-brutal.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "what-is-consciousness-unsolicited-advice",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "What is Consciousness? ​⁠@Unsolicited advice",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "fETygRNp_Xw",
+    "description": "What is consciousness?",
+    "keywords": [],
+    "reviewPage": "../reviews/what-is-consciousness-unsolicited-advice.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "don-t-be-the-last-person-to-die",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Don't Be the Last Person to Die",
+    "creator": "CGP Grey",
+    "youtubeId": "C25qzDhGLx8",
+    "description": "Are you really alive? Or will you die now...",
+    "keywords": [],
+    "reviewPage": "../reviews/don-t-be-the-last-person-to-die.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-boltzmann-brain-paradox-fabio-pacucci",
+    "categories": [
+      "philosofy",
+      "physics"
+    ],
+    "title": "The Boltzmann brain paradox - Fabio Pacucci",
+    "creator": "TED-Ed",
+    "youtubeId": "OpohbXB_JZU",
+    "description": "What is the Boltzmann brain? And is this the true nature of reality?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-boltzmann-brain-paradox-fabio-pacucci.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-ship-of-theseus-a-mind-bending-voyage-through-identity-rationality-rules",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The Ship of Theseus: A Mind-Bending Voyage Through Identity | Rationality Rules",
+    "creator": "Rationality Rules",
+    "youtubeId": "x8DtuLEnHVo",
+    "description": "The legendary ship of Theseus and the paradox that comes with it.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-ship-of-theseus-a-mind-bending-voyage-through-identity-rationality-rules.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "your-beliefs-are-wrong-here-s-why",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Your beliefs are WRONG... here's why",
+    "creator": "Rationality Rules",
+    "youtubeId": "mX6AqD5Qzbw",
+    "description": "What is knowledge? And can you truly know anything for sure?",
+    "keywords": [],
+    "reviewPage": "../reviews/your-beliefs-are-wrong-here-s-why.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-religion-that-keeps-me-up-at-night",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The Religion That Keeps Me Up At Night",
+    "creator": "Rationality Rules",
+    "youtubeId": "L0b-gufQp7U",
+    "description": "Who was Socrates? Why was his death so haunting, even to this day?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-religion-that-keeps-me-up-at-night.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-real-reason-athens-executed-socrates-the-day-democracy-died",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The REAL Reason Athens EXECUTED Socrates: The Day Democracy DIED",
+    "creator": "Rationality Rules",
+    "youtubeId": "WpjMC2Q7oqQ",
+    "description": "Who was Socrates? And why does his death haunt us until this day?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-real-reason-athens-executed-socrates-the-day-democracy-died.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "why-teleportation-would-kill-you",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "Why Teleportation Would Kill You",
+    "creator": "CGP Grey",
+    "youtubeId": "nQHBAdShgYI",
+    "description": "This video describes the paradox of teleportation.",
+    "keywords": [],
+    "reviewPage": "../reviews/why-teleportation-would-kill-you.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "this-tool-will-help-improve-your-critical-thinking-erick-wilberding",
+    "categories": [
+      "philosofy",
+      "politics"
+    ],
+    "title": "This tool will help improve your critical thinking - Erick Wilberding",
+    "creator": "TED-Ed",
+    "youtubeId": "vNDYUlxNIAA",
+    "description": "TED-ed talks about Socrates.",
+    "keywords": [],
+    "reviewPage": "../reviews/this-tool-will-help-improve-your-critical-thinking-erick-wilberding.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-most-controversial-problem-in-philosophy",
+    "categories": [
+      "science-related",
+      "mathematics",
+      "philosofy"
+    ],
+    "title": "The Most Controversial Problem in Philosophy",
+    "creator": "Veritasium",
+    "youtubeId": "XeSu9fBJ2sI",
+    "description": "One of the greatest thought experiments of all time IMO.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-most-controversial-problem-in-philosophy.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "when-a-dying-hitchens-dropped-truth-bomb-on-muslim-propaganda-brilliant",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "When a Dying Hitchens Dropped TRUTH Bomb on Muslim Propaganda (Brilliant!)",
+    "creator": "Skeptic Scriptura",
+    "youtubeId": "557nUApOkh0",
+    "description": "Hitchens vs Islam. Great clip.",
+    "keywords": [],
+    "reviewPage": "../reviews/when-a-dying-hitchens-dropped-truth-bomb-on-muslim-propaganda-brilliant.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-most-influential-philosophers-explained-in-26-minutes",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The Most Influential Philosophers Explained in 26 Minutes",
+    "creator": "Jaydone History",
+    "youtubeId": "icqvSnMVCjk",
+    "description": "Just a cute video that lists important historical figures.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-most-influential-philosophers-explained-in-26-minutes.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "when-christopher-hitchens-trashed-al-sharpton-on-god-brutal",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "When Christopher Hitchens TRASHED Al Sharpton on GOD (Brutal)",
+    "creator": "Skeptic Scriptura",
+    "youtubeId": "NePhkciJVuQ",
+    "description": "Hitchens vs christianity! Great clip.",
+    "keywords": [],
+    "reviewPage": "../reviews/when-christopher-hitchens-trashed-al-sharpton-on-god-brutal.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "are-you-f-cking-serious-when-hitchens-torched-d-souza-on-religion",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "“Are You F*cking Serious?”—When Hitchens TORCHED D’Souza on Religion",
+    "creator": "Skeptic Scriptura",
+    "youtubeId": "ez-OtdUQ7OA",
+    "description": "Hitch-Sapping God Ez",
+    "keywords": [],
+    "reviewPage": "../reviews/are-you-f-cking-serious-when-hitchens-torched-d-souza-on-religion.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "8-impossible-thought-experiments-cosmic-skeptic",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "8 Impossible Thought Experiments - Cosmic Skeptic",
+    "creator": "Chris Williamson",
+    "youtubeId": "_qU-v01Ulm4",
+    "description": "Ethical dilemmas with Alex O'Connor!",
+    "keywords": [],
+    "reviewPage": "../reviews/8-impossible-thought-experiments-cosmic-skeptic.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "how-to-make-your-opponent-prove-your-point-for-you",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "How to Make Your Opponent Prove Your Point FOR You",
+    "creator": "Rationality Rules",
+    "youtubeId": "BFkYUV3t8N8",
+    "description": "A breakdown of arguments from Christopher Hitchens. Main point: Religion makes normal good people do evil thing that they would otherwise never do.",
+    "keywords": [],
+    "reviewPage": "../reviews/how-to-make-your-opponent-prove-your-point-for-you.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "debate-free-will-do-you-have-it-alex-o-connor-vs-craig-biddle",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "DEBATE: Free Will—Do You Have It? | Alex O’Connor vs. Craig Biddle",
+    "creator": "Craig Biddle",
+    "youtubeId": "G17N2CgrXXU",
+    "description": "A debate with Alex O'Connor and Craig Biddle about is free will exists.",
+    "keywords": [],
+    "reviewPage": "../reviews/debate-free-will-do-you-have-it-alex-o-connor-vs-craig-biddle.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "plato-s-republic-an-in-depth-guide",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "Plato's Republic: An In-Depth Guide",
+    "creator": "Jared Henderson",
+    "youtubeId": "oAp_POUGgB8",
+    "description": "A video essay about Platos republic. Escaping Platos cave.",
+    "keywords": [],
+    "reviewPage": "../reviews/plato-s-republic-an-in-depth-guide.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "do-you-really-exist-vsauce-explains",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "Do \"You\" Really Exist? - Vsauce Explains",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "uy988VdylTU",
+    "description": "Alex O'Connor and Vsauce Collab! Do we exist?",
+    "keywords": [],
+    "reviewPage": "../reviews/do-you-really-exist-vsauce-explains.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "everything-you-need-to-know-about-ethics-alex-o-connor",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Everything You Need to Know About Ethics - Alex O'Connor",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "2u6VG2jz4fw",
+    "description": "What you need to know about ethics, with Alex O'Connor.",
+    "keywords": [],
+    "reviewPage": "../reviews/everything-you-need-to-know-about-ethics-alex-o-connor.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "deconstructing-ben-shapiro-s-religious-argument-from-change",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "Deconstructing Ben Shapiro’s Religious Argument From Change",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "JaoeoIHDy8g",
+    "description": "Alex O'Connor breaks down Ben Chapiros religious arguments of change.",
+    "keywords": [],
+    "reviewPage": "../reviews/deconstructing-ben-shapiro-s-religious-argument-from-change.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "atheists-cannot-have-morality-atheists-respond",
+    "categories": [
+      "philosofy",
+      "religion"
+    ],
+    "title": "Atheists Cannot Have Morality - Atheists Respond",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "OdFudjrdTMY",
+    "description": "Can atheists have morals? With Alex O'Connor.",
+    "keywords": [],
+    "reviewPage": "../reviews/atheists-cannot-have-morality-atheists-respond.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-biggest-objection-to-my-ethical-worldview",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The Biggest Objection to My Ethical Worldview",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "2zom3vEom1E",
+    "description": "What in this world is Boo?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-biggest-objection-to-my-ethical-worldview.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "how-does-consciousness-actually-exist",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "How Does Consciousness Actually Exist?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "jIwc5DDW3Sg",
+    "description": "Is contentiousness emergent just like a website is emergent from our computers? With Alex O'Connor",
+    "keywords": [],
+    "reviewPage": "../reviews/how-does-consciousness-actually-exist.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "islamic-apologetics-at-its-finest-casually-debunked",
+    "categories": [
+      "religion",
+      "philosofy"
+    ],
+    "title": "Islamic apologetics at its FINEST | Casually Debunked",
+    "creator": "Rationality Rules",
+    "youtubeId": "RjKJbfJH3uQ",
+    "description": "A breakdown of islamic arguments of gods existence.",
+    "keywords": [],
+    "reviewPage": "../reviews/islamic-apologetics-at-its-finest-casually-debunked.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "why-people-mistake-feelings-for-moral-insight-alex-o-connor",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Why people mistake feelings for moral insight | Alex O'Connor",
+    "creator": "Big Think Clips",
+    "youtubeId": "0tRxtfHpVk4",
+    "description": "Alex O'Connor explains to us why we mistake feelings for moral insight.",
+    "keywords": [],
+    "reviewPage": "../reviews/why-people-mistake-feelings-for-moral-insight-alex-o-connor.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "andrew-schulz-gets-his-ethics-tested-by-alex-o-connor",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Andrew Schulz Gets His Ethics Tested by Alex O’Connor",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "hRtOxrwZuLA",
+    "description": "More ethical dilemmas with Alex O'Connor!",
+    "keywords": [],
+    "reviewPage": "../reviews/andrew-schulz-gets-his-ethics-tested-by-alex-o-connor.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "atheists-can-t-use-reason-a-christian-presses-alex",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "\"Atheists Can't Use Reason!\" - A Christian Presses Alex",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "orvJDnXo-Z4",
+    "description": "Alex O'Connor is challenged to explain how we can reason if we don't even have free will?",
+    "keywords": [],
+    "reviewPage": "../reviews/atheists-can-t-use-reason-a-christian-presses-alex.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "why-is-there-something-rather-than-nothing-all-roads-lead-to-russell",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Why is there something rather than nothing? (All Roads Lead to Russell)",
+    "creator": "Rationality Rules",
+    "youtubeId": "Ymy6Zdv_5ig",
+    "description": "Why is there something rather than nothing?",
+    "keywords": [],
+    "reviewPage": "../reviews/why-is-there-something-rather-than-nothing-all-roads-lead-to-russell.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-ai-paradox",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "The AI Paradox",
+    "creator": "Art of the Problem",
+    "youtubeId": "dcolM6W5Odc",
+    "description": "What is the AI paradox? Are we going to stop thinking if we no longer need to think in order to survive?",
+    "keywords": [],
+    "reviewPage": "../reviews/the-ai-paradox.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "plato-s-allegory-of-the-cave-alex-gendler",
+    "categories": [
+      "philosofy",
+      "science-related"
+    ],
+    "title": "Plato’s Allegory of the Cave - Alex Gendler",
+    "creator": "TED-Ed",
+    "youtubeId": "1RWOpQXTltA",
+    "description": "How does Platos cave explain reality?",
+    "keywords": [],
+    "reviewPage": "../reviews/plato-s-allegory-of-the-cave-alex-gendler.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "is-life-meaningless-and-other-absurd-questions-nina-medvinskaya",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "Is life meaningless? And other absurd questions -  Nina Medvinskaya",
+    "creator": "TED-Ed",
+    "youtubeId": "vPtzpjC7TF4",
+    "description": "Is life meaningless? and other meaningless questions! \nWho was Nina Medvinskaya?",
+    "keywords": [],
+    "reviewPage": "../reviews/is-life-meaningless-and-other-absurd-questions-nina-medvinskaya.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "the-philosophy-of-stoicism-massimo-pigliucci",
+    "categories": [
+      "philosofy"
+    ],
+    "title": "The philosophy of Stoicism - Massimo Pigliucci",
+    "creator": "TED-Ed",
+    "youtubeId": "R9OCA6UFE-0",
+    "description": "TED-ed explains Stoicism.",
+    "keywords": [],
+    "reviewPage": "../reviews/the-philosophy-of-stoicism-massimo-pigliucci.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T18:10:36.847Z",
+    "importedDraft": false
+  },
+  {
+    "id": "casually-explained-reddit",
+    "categories": [
+      "funny-hoho"
+    ],
+    "title": "Casually Explained: Reddit",
+    "creator": "Casually Explained",
+    "youtubeId": "Uy9V_v-XV8Q",
+    "description": "funny",
+    "keywords": [
+      "casually explained"
+    ],
+    "reviewPage": "../reviews/casually-explained-reddit.html",
+    "review": {
+      "html": "hej",
+      "text": "hej"
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-08-07T17:46:58.776Z",
+    "importedDraft": false
+  },
+  {
     "id": "reddit-just-censored-british-world-war-2-veteran",
     "categories": [
       "politics"
@@ -45,8 +1144,8 @@ window.VIDEO_LIBRARY = [
     ],
     "reviewPage": "../reviews/why-firefighting-got-political.html",
     "review": {
-      "html": "After watching this I still stay on the same opinion that I had before. I think everyone should have the same chance to becoming a firefighter, but that the harsh requirements can not adapt to the gender. Any firefighter must be able to do heavy lifting.&nbsp;",
-      "text": "After watching this I still stay on the same opinion that I had before. I think everyone should have the same chance to becoming a firefighter, but that the harsh requirements can not adapt to the gender. Any firefighter must be able to do heavy lifting."
+      "html": "<h2>My thoughts</h2><div>After watching this I still stay on the same opinion that I had before. I think everyone should have the same chance to becoming a firefighter, but that the harsh requirements can not adapt to the gender. Any firefighter must be able to do heavy lifting.&nbsp;</div>",
+      "text": "My thoughtsAfter watching this I still stay on the same opinion that I had before. I think everyone should have the same chance to becoming a firefighter, but that the harsh requirements can not adapt to the gender. Any firefighter must be able to do heavy lifting."
     },
     "customThumbnail": "",
     "published": true,

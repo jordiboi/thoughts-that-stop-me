@@ -30,9 +30,29 @@
      2. DATA AND STATE
      ================================================================ */
 
-  const categories = Array.isArray(window.VIDEO_CATEGORIES)
+  const allCategories = Array.isArray(window.VIDEO_CATEGORIES)
     ? window.VIDEO_CATEGORIES
     : [];
+
+  const videos = Array.isArray(window.VIDEO_LIBRARY)
+    ? window.VIDEO_LIBRARY
+    : [];
+
+  const categories = allCategories.filter((category) => {
+    const slug = String(category.slug || "");
+
+    return videos.some((video) => {
+      if (video.published === false) return false;
+
+      const videoCategories = Array.isArray(video.categories)
+        ? video.categories
+        : video.category
+          ? [video.category]
+          : [];
+
+      return videoCategories.includes(slug);
+    });
+  });
 
   /*
     false = favorites first, followed by alphabetical categories

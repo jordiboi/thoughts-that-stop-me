@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="My favorite food videos."
+  >
+  <title>Food and recipies | Thoughts that Stop Me</title>
+  <link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="inner-page film-page" data-category="food-and-recipies">
+  <div class="page-background film-background" aria-hidden="true"></div>
+  <div class="page-background-shade" aria-hidden="true"></div>
+<header class="site-header home-header">
+    <a class="logo" href="../../index.html">Thoughts that Stop Me</a>
+
+    <button
+      class="menu-toggle"
+      type="button"
+      aria-label="Open navigation"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="../../index.html">Home</a>
+      <a class="active" href="../videos.html">Videos</a>
+      <a href="../writing.html">Writing</a>
+      <a href="../projects.html">Projects</a>
+    </nav>
+  </header>
+
+  <main class="inner-main">
+    <section class="page-heading category-page-heading readable-panel">
+      <p class="eyebrow">
+        <a class="breadcrumb-link" href="../videos.html">Videos</a>
+        <span aria-hidden="true"> / </span>
+        Food and recipies
+      </p>
+
+      <h1>Food and recipies</h1>
+      <p>My favorite food videos.</p>
+    </section>
+
+    <section class="video-library-section readable-panel">
+      <div class="video-library-heading">
+        <h2>Video library</h2>
+        <p>
+          Search by video title, creator, subject, description, or keyword.
+        </p>
+      </div>
+
+      <div class="video-search">
+        <label for="video-search-input">Search videos</label>
+
+        <input
+          id="video-search-input"
+          type="search"
+          placeholder="Search this category..."
+          autocomplete="off"
+          spellcheck="false"
+        >
+
+        <p
+          id="video-search-status"
+          class="video-search-status"
+          aria-live="polite"
+        ></p>
+      </div>
+
+      <ol
+        id="video-library-list"
+        class="video-library-list"
+      ></ol>
+
+      <div
+        id="video-search-empty"
+        class="video-search-empty"
+        hidden
+      >
+        <h3>No videos found</h3>
+        <p>Try another title, creator, subject, or keyword.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer readable-panel">
+    <p>&copy; <span id="year"></span> Thoughts that Stop Me</p>
+  </footer>
+
+  <script src="../../js/script.js"></script>
+  <script src="../../js/data/category-data.js"></script>
+  <script src="../../js/data/video-data.js"></script>
+  <script src="../../js/video-library.js"></script>
+</body>
+</html>

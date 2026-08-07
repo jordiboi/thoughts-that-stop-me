@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="Thoughts that Stop Me — thoughts, videos, poems, and short stories."
+  >
+  <title>Thoughts that Stop Me</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="home-page">
+  <!--
+    This background exists only on the home page.
+    Its blur strength is controlled near the top of styles.css.
+  -->
+  <div class="home-background" aria-hidden="true"></div>
+  <div class="home-shade" aria-hidden="true"></div>
+
+  <!--
+    Everything inside .page-interface fades after 30 seconds of inactivity.
+    Moving the mouse, touching the screen, scrolling, or pressing a key
+    brings it back.
+  -->
+  <div class="page-interface">
+    <header class="site-header home-header">
+      <a class="logo" href="index.html">Thoughts that Stop Me</a>
+
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-label="Open navigation"
+        aria-expanded="false"
+      >
+        ☰
+      </button>
+
+      <nav class="main-nav" aria-label="Main navigation">
+        <a class="active" href="index.html">Home</a>
+        <a href="pages/videos.html">Videos</a>
+        <a href="pages/writing.html">Writing</a>
+        <a href="pages/projects.html">Projects</a>
+      </nav>
+    </header>
+
+    <main class="home-main">
+      <section class="home-hero">
+        <div class="title-block">
+          <h1>Thoughts that Stop Me</h1>
+          <p class="hero-tagline">Thoughts. Stories. Reflections.</p>
+        </div>
+
+        <article class="welcome-panel" id="about">
+          <h2>Welcome</h2>
+          <p>
+            This space is where I share the thoughts that stop me, the ideas
+            that stay with me, and the stories that live inside my head.
+          </p>
+          <p>
+            Replace this sample introduction with your own message whenever
+            you are ready.
+          </p>
+          <a class="outline-button" href="#explore">Explore</a>
+        </article>
+      </section>
+
+      <section class="home-explore" id="explore" aria-label="Explore the website">
+        <a class="home-feature glass-panel" href="pages/videos.html">
+          <span class="feature-label">Watch</span>
+          <h2>Videos &amp; Thoughts</h2>
+          <p>Videos that interest me, with my reflections underneath.</p>
+        </a>
+
+        <a class="home-feature glass-panel" href="pages/writing.html">
+          <span class="feature-label">Read</span>
+          <h2>Writing</h2>
+          <p>Original poems, fragments, experiments, and short stories.</p>
+        </a>
+      </section>
+    </main>
+
+    <footer class="home-footer" id="contact">
+      <div class="footer-item">
+        <span class="footer-icon" aria-hidden="true">✉</span>
+        <div>
+          <strong>Email</strong>
+          <a href="mailto:your-email@example.com">your-email@example.com</a>
+        </div>
+      </div>
+
+      <div class="footer-item">
+        <span class="footer-icon" aria-hidden="true">⌖</span>
+        <div>
+          <strong>Location</strong>
+          <span>Your City, Your Country</span>
+        </div>
+      </div>
+
+      <div class="footer-item">
+        <span class="footer-icon" aria-hidden="true">♡</span>
+        <div>
+          <strong>Follow</strong>
+          <span>YouTube · Instagram · Other links</span>
+        </div>
+      </div>
+
+      <p class="copyright">
+        &copy; <span id="year"></span> Thoughts that Stop Me. All rights reserved.
+      </p>
+    </footer>
+  </div>
+
+  <p class="idle-hint" aria-hidden="true">
+    Move the pointer to return
+  </p>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

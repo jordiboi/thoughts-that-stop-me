@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="Browse video categories and reflections from Thoughts that Stop Me."
+  >
+  <title>Videos | Thoughts that Stop Me</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="inner-page film-page">
+  <div class="page-background film-background" aria-hidden="true"></div>
+  <div class="page-background-shade" aria-hidden="true"></div>
+
+  <header class="site-header home-header">
+    <a class="logo" href="../index.html">Thoughts that Stop Me</a>
+
+    <button
+      class="menu-toggle"
+      type="button"
+      aria-label="Open navigation"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="../index.html">Home</a>
+      <a class="active" href="videos.html">Videos</a>
+      <a href="writing.html">Writing</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+
+  <main class="inner-main">
+    <section class="page-heading readable-panel">
+      <p class="eyebrow">Watch, pause, reflect</p>
+      <h1>Videos &amp; Thoughts</h1>
+      <p>
+        Browse videos by subject, then select a video to watch it and read
+        my thoughts.
+      </p>
+    </section>
+
+    <section class="category-section readable-panel">
+      <div class="section-heading">
+        <h2>Categories</h2>
+        <p>Select a subject to explore its video collection.</p>
+      </div>
+
+      <div class="category-toolbar">
+        <div class="category-search">
+          <label for="category-search-input">
+            Search categories
+          </label>
+
+          <input
+            id="category-search-input"
+            type="search"
+            placeholder="Search..."
+            autocomplete="off"
+            spellcheck="false"
+          >
+
+          <p
+            id="category-search-status"
+            class="category-search-status"
+            aria-live="polite"
+          ></p>
+        </div>
+
+        <button
+          id="category-sort-button"
+          class="category-sort-button"
+          type="button"
+          aria-pressed="false"
+        >
+          Sort alphabetically
+        </button>
+      </div>
+
+      <div id="category-list" class="category-list"></div>
+
+      <div id="category-empty" class="category-empty" hidden>
+        <h3>No categories available</h3>
+        <p>Create one with the Category Editor.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer readable-panel">
+    <p>&copy; <span id="year"></span> Thoughts that Stop Me</p>
+  </footer>
+
+  <script src="../js/script.js"></script>
+  <script src="../js/data/category-data.js"></script>
+  <script src="../js/category-library.js"></script>
+</body>
+</html>

@@ -187,7 +187,7 @@
         {
           "id": "card-1788254230343-gp9m",
           "question": "Kvalifikationsdomän",
-          "answer": "Förberedels inför livet. Kvalitet i ämnet. Nödvändiga färdigheter och kunskaper."
+          "answer": "Förberedelser inför livet i ett samhälle. Kvalitet i ämnet. Nödvändiga färdigheter och kunskaper."
         },
         {
           "id": "card-1788254234406-wgc7",
@@ -233,9 +233,23 @@
           "id": "card-1788254235589-x84h",
           "question": "Vilka kvaliteter är viktiga för undervisning?",
           "answer": "Intentionell, intersubjektiv, interaktiv."
+        },
+        {
+          "id": "card-1788281307851-uv3v",
+          "question": "Ramfaktorer",
+          "answer": "Faktorer som står utanför den didaktiska triangeln, men som ändå har relationer till eleven, ämnet eller läraren.\nEx: Miljön, skollagen, kursplanen, föräldrar."
         }
       ],
       "pdfPath": "assets/studies/flashcards/t-nka-och-handla-som-en-l-rare-flash-cards.pdf"
+    },
+    {
+      "id": "bla-kompendiet",
+      "name": "Blå kompendiet",
+      "color": "#777777",
+      "description": "",
+      "published": true,
+      "cards": [],
+      "pdfPath": ""
     }
   ]
 }

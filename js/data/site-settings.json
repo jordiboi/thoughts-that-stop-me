@@ -2,7 +2,7 @@
   "version": 1,
   "pages": {
     "home": true,
-    "videos": true,
+    "videos": false,
     "writing": false,
     "projects": false,
     "studies": true

@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "texts": [],
+  "flashcardDecks": [
+    {
+      "id": "begreppslista-pedagogik",
+      "name": "Begreppslista – Pedagogik",
+      "color": "#ff0000",
+      "description": "Första flashcard-decket. Svarstexterna är arbetsdefinitioner och kan redigeras i admin.",
+      "published": true,
+      "cards": [
+        {
+          "id": "begrepp-1",
+          "question": "Pedagogik",
+          "answer": "Kunskapsområdet om utbildning, undervisning, lärande och fostran samt hur människor utvecklas i olika pedagogiska sammanhang."
+        },
+        {
+          "id": "begrepp-2",
+          "question": "Didaktik",
+          "answer": "Läran om undervisningens innehåll, mål och genomförande – alltså vad som ska läras, varför det ska läras och hur undervisningen kan utformas."
+        },
+        {
+          "id": "begrepp-3",
+          "question": "Undervisning",
+          "answer": "En avsiktlig verksamhet där någon skapar förutsättningar för andra att utveckla kunskaper, förmågor eller förståelse."
+        },
+        {
+          "id": "begrepp-4",
+          "question": "Intentionell",
+          "answer": "Något som är avsiktligt eller medvetet riktat mot ett visst mål."
+        },
+        {
+          "id": "begrepp-5",
+          "question": "Intersubjektiv",
+          "answer": "Något som delas eller skapas mellan människor genom gemensam förståelse, kommunikation och tolkning."
+        },
+        {
+          "id": "begrepp-6",
+          "question": "Interaktiv",
+          "answer": "Något som bygger på ömsesidig aktivitet och påverkan mellan två eller flera parter."
+        },
+        {
+          "id": "begrepp-7",
+          "question": "Skollagen",
+          "answer": "Den svenska lag som reglerar skolväsendet och bland annat anger elevers rättigheter, skolans ansvar och grundläggande krav på utbildningen."
+        },
+        {
+          "id": "begrepp-8",
+          "question": "Läroplan",
+          "answer": "Ett styrdokument som beskriver skolans värdegrund, uppdrag, mål och riktlinjer för undervisningen."
+        },
+        {
+          "id": "begrepp-9",
+          "question": "De didaktiska frågorna",
+          "answer": "Frågor som hjälper läraren att planera undervisning, exempelvis: Vad ska läras? Varför? Hur? För vem? När? och Var?"
+        },
+        {
+          "id": "begrepp-10",
+          "question": "Den didaktiska triangeln",
+          "answer": "En modell som beskriver relationen mellan lärare, elev och undervisningens ämne eller innehåll."
+        },
+        {
+          "id": "begrepp-11",
+          "question": "Ämne",
+          "answer": "Det innehåll eller kunskapsområde som undervisningen handlar om och som läraren och eleven möts kring."
+        },
+        {
+          "id": "begrepp-12",
+          "question": "Lärare",
+          "answer": "Den person som planerar, leder och följer upp undervisningen samt stödjer elevernas lärande."
+        },
+        {
+          "id": "begrepp-13",
+          "question": "Elev",
+          "answer": "Den lärande person som deltar i undervisningen och utvecklar kunskaper, färdigheter och förståelse."
+        },
+        {
+          "id": "begrepp-14",
+          "question": "Ramfaktorer",
+          "answer": "Yttre och inre villkor som påverkar vad som är möjligt i undervisningen, till exempel tid, gruppstorlek, lokaler, resurser, styrdokument och organisation."
+        },
+        {
+          "id": "begrepp-15",
+          "question": "Ämnesdidaktisk kompetens / (Lärande) / (*Internalisering)",
+          "answer": "Förmågan att omvandla ämneskunskap till undervisning som elever kan förstå och göra till sin egen kunskap. Internaliseringsdelen syftar på hur kunskap gradvis införlivas i elevens eget tänkande."
+        },
+        {
+          "id": "begrepp-16",
+          "question": "Ämneskompetens",
+          "answer": "Lärarens kunskap och förståelse inom det ämne som undervisas."
+        },
+        {
+          "id": "begrepp-17",
+          "question": "Social kompetens",
+          "answer": "Förmågan att kommunicera, samarbeta, skapa relationer och hantera sociala situationer på ett fungerande sätt."
+        },
+        {
+          "id": "begrepp-18",
+          "question": "Differensiering",
+          "answer": "När man delar upp klassen eller eleverna efter kunskapsnivåer."
+        },
+        {
+          "id": "begrepp-19",
+          "question": "Uppdragsvision",
+          "answer": "En samlad bild av vilket uppdrag undervisningen har och vilken riktning arbetet ska ha för elevernas lärande och utveckling."
+        },
+        {
+          "id": "begrepp-20",
+          "question": "Syfte och mål",
+          "answer": "Syftet beskriver varför undervisningen genomförs och den övergripande riktningen, medan målen beskriver vad eleverna förväntas utveckla eller uppnå."
+        },
+        {
+          "id": "begrepp-21",
+          "question": "Kunskapsförankring",
+          "answer": "Att nya kunskaper kopplas till tidigare förståelse, erfarenheter och relevanta sammanhang så att lärandet får en stabil grund."
+        },
+        {
+          "id": "begrepp-22",
+          "question": "Successiv fördjupning",
+          "answer": "Att undervisningen stegvis går från enklare eller mer grundläggande förståelse till mer avancerad, nyanserad och självständig kunskap."
+        },
+        {
+          "id": "begrepp-23",
+          "question": "Sammansatt stödstruktur",
+          "answer": "En kombination av stöd, struktur och vägledning som hjälper eleven att genomföra uppgifter och utveckla sitt lärande, med stöd som kan anpassas efter behov."
+        },
+        {
+          "id": "begrepp-24",
+          "question": "Lärande bedömning",
+          "answer": "Bedömning som används för att stödja fortsatt lärande genom att synliggöra var eleven befinner sig, vart eleven ska och hur eleven kan komma vidare."
+        },
+        {
+          "id": "begrepp-25",
+          "question": "Normativa Perspektiv",
+          "answer": "Perspektiv som handlar om värderingar och föreställningar om hur något bör vara, snarare än enbart hur det faktiskt är."
+        },
+        {
+          "id": "begrepp-26",
+          "question": "Riktningsgivare",
+          "answer": "Principer eller faktorer som hjälper till att ange riktning för planering, undervisning och utveckling."
+        },
+        {
+          "id": "begrepp-27",
+          "question": "1 Samlande uppdragsvision och lärandeavpassade förutsättningar",
+          "answer": "Undervisningen utgår från en tydlig gemensam bild av uppdraget och skapar förutsättningar som är anpassade för elevernas lärande."
+        },
+        {
+          "id": "begrepp-28",
+          "question": "2 Kommunicerade syftes- och målrelatering",
+          "answer": "Syfte och mål görs tydliga och kommuniceras så att eleverna kan förstå vad de arbetar mot och hur aktiviteterna hänger ihop med målen."
+        },
+        {
+          "id": "begrepp-29",
+          "question": "3 Kraftfull kunskapsförankring",
+          "answer": "Nytt innehåll förankras tydligt i elevernas tidigare kunskaper, erfarenheter och centrala begrepp så att förståelsen blir stabil och meningsfull."
+        },
+        {
+          "id": "begrepp-30",
+          "question": "4 Successiv fördjupning",
+          "answer": "Lärandet utvecklas stegvis mot större komplexitet, djup och självständighet genom att tidigare kunskaper byggs vidare på."
+        },
+        {
+          "id": "begrepp-31",
+          "question": "5 Lärandestödjande struktur och samspel",
+          "answer": "Undervisningen organiseras med tydlig struktur och ett samspel mellan lärare och elever som aktivt stödjer lärandet."
+        },
+        {
+          "id": "begrepp-32",
+          "question": "6 Anpassad lärandekontext",
+          "answer": "Undervisningens miljö, uppgifter, stöd och arbetssätt anpassas efter elevernas behov och det lärande som ska ske."
+        },
+        {
+          "id": "begrepp-33",
+          "question": "7 Lärande bedömning",
+          "answer": "Bedömningen används som en del av lärprocessen för att ge återkoppling, synliggöra utveckling och hjälpa eleven att ta nästa steg."
+        }
+      ],
+      "pdfPath": "assets/studies/flashcards/begreppslista-pedagogik-flash-cards.pdf"
+    },
+    {
+      "id": "tanka-och-handla-som-en-larare",
+      "name": "Tänka och Handla som en Lärare",
+      "color": "#777777",
+      "description": "",
+      "published": false,
+      "cards": [
+        {
+          "id": "card-1788254230343-gp9m",
+          "question": "Kvalifikationsdomän",
+          "answer": "Förberedels inför livet. Kvalitet i ämnet. Nödvändiga färdigheter och kunskaper."
+        },
+        {
+          "id": "card-1788254234406-wgc7",
+          "question": "Subjektifikationsdomän",
+          "answer": "Individens rätt att komma till tals. "
+        },
+        {
+          "id": "card-1788254234554-0zka",
+          "question": "Socialisationsdomän",
+          "answer": "Vad skolankan göra för att skapa en miljö som fostrar elever till att bli \nDelaktiga och deltagande i skolan och samhället. "
+        },
+        {
+          "id": "card-1788254234710-gtw7",
+          "question": "Didaktik (Enligt Biestas Venn-diagram)",
+          "answer": "Där alla 3 domänerna överlappar. För att definera didaktik krävs en skola som tar hänsyn till Kvalifikation, Socialisation och Subjektifikation. "
+        },
+        {
+          "id": "card-1788254234854-s8z5",
+          "question": "Pedagogik (Enligt Biesta Venn-diagram)",
+          "answer": "Där 2 av domänerna möts. Defineras utav Socialisation och Subjektifikation. "
+        },
+        {
+          "id": "card-1788254234997-ygoq",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235146-phh5",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235295-422a",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235445-ylen",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235589-x84h",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235739-1gbm",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254235887-66il",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254236044-1s34",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254236195-wa3i",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254236330-iocg",
+          "question": "",
+          "answer": ""
+        },
+        {
+          "id": "card-1788254236551-dexe",
+          "question": "",
+          "answer": ""
+        }
+      ],
+      "pdfPath": "assets/studies/flashcards/t-nka-och-handla-som-en-l-rare-flash-cards.pdf"
+    }
+  ]
+}

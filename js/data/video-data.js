@@ -7,7 +7,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "crash-course-philosophy-preview",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Crash Course Philosophy Preview",
     "creator": "CrashCourse",
@@ -45,7 +45,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "everyone-gets-the-trolley-problem-wrong",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Everyone Gets The Trolley Problem Wrong",
     "creator": "The Splinter In Your Eye",
@@ -65,7 +65,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-god-question-keeping-these-atheists-up-at-night",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The GOD Question Keeping these Atheists Up at Night",
     "creator": "More Alex O'Connor",
@@ -85,7 +85,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "is-ai-conscious",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Is AI Conscious?",
     "creator": "More Alex O'Connor",
@@ -105,7 +105,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "can-you-answer-these-ethical-dilemmas",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Can You Answer These Ethical Dilemmas?",
     "creator": "More Alex O'Connor",
@@ -125,7 +125,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-world-s-most-hated-philosophy-moral-relativism",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The World's Most Hated Philosophy | Moral Relativism",
     "creator": "Unsolicited advice",
@@ -145,7 +145,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "is-science-objective-the-philosophy-of-science",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Is Science Objective? | The Philosophy of Science",
     "creator": "Unsolicited advice",
@@ -165,7 +165,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "ruining-my-day-with-infuriating-philosophy-takes",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Ruining My Day with INFURIATING Philosophy Takes",
     "creator": "Unsolicited advice",
@@ -185,7 +185,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "every-single-logical-fallacy-explained",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Every Single Logical Fallacy Explained",
     "creator": "Unsolicited advice",
@@ -205,7 +205,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "alex-o-connor-on-god-consciousness-and-changing-his-mind",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Alex O'Connor on God, consciousness, and changing his mind",
     "creator": "Unsolicited advice",
@@ -225,7 +225,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "how-to-become-a-monster-nietzsche",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "How to Become a Monster | Nietzsche",
     "creator": "Weltgeist",
@@ -245,7 +245,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "is-occam-s-razor-stupid",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "Is Occam's Razor Stupid?",
@@ -286,7 +286,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "stoicism-an-in-depth-explanation",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Stoicism: An In-Depth Explanation",
     "creator": "Jared Henderson",
@@ -306,7 +306,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "7-philosophy-books-for-beginners",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "7 Philosophy Books for Beginners",
     "creator": "Jared Henderson",
@@ -326,7 +326,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-truth-about-stupid-people-that-got-socrates-killed-dunning-kruger-effect",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Truth About Stupid People That Got Socrates Killed (Dunning-Kruger Effect)",
     "creator": "Philosophy Coded",
@@ -346,7 +346,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-hidden-problem-at-the-heart-of-nihilism-alex-o-connor",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The hidden problem at the heart of nihilism | Alex O'Connor",
     "creator": "Big Think Clips",
@@ -366,7 +366,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-10-scariest-space-theories-ever",
     "categories": [
-      "philosofy",
+      "philosophy",
       "physics"
     ],
     "title": "The 10 Scariest Space Theories Ever",
@@ -387,7 +387,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "when-christopher-hitchens-broke-frank-turek-s-christianity-it-was-brutal",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "When Christopher Hitchens BROKE Frank Turek’s Christianity — It Was Brutal",
@@ -408,7 +408,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "what-is-consciousness-unsolicited-advice",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "What is Consciousness? ​⁠@Unsolicited advice",
     "creator": "More Alex O'Connor",
@@ -428,7 +428,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "don-t-be-the-last-person-to-die",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Don't Be the Last Person to Die",
     "creator": "CGP Grey",
@@ -448,7 +448,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-boltzmann-brain-paradox-fabio-pacucci",
     "categories": [
-      "philosofy",
+      "philosophy",
       "physics"
     ],
     "title": "The Boltzmann brain paradox - Fabio Pacucci",
@@ -469,7 +469,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-ship-of-theseus-a-mind-bending-voyage-through-identity-rationality-rules",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Ship of Theseus: A Mind-Bending Voyage Through Identity | Rationality Rules",
     "creator": "Rationality Rules",
@@ -489,7 +489,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "your-beliefs-are-wrong-here-s-why",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Your beliefs are WRONG... here's why",
     "creator": "Rationality Rules",
@@ -509,7 +509,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-religion-that-keeps-me-up-at-night",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Religion That Keeps Me Up At Night",
     "creator": "Rationality Rules",
@@ -529,7 +529,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-real-reason-athens-executed-socrates-the-day-democracy-died",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The REAL Reason Athens EXECUTED Socrates: The Day Democracy DIED",
     "creator": "Rationality Rules",
@@ -549,7 +549,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "why-teleportation-would-kill-you",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "Why Teleportation Would Kill You",
@@ -570,7 +570,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "this-tool-will-help-improve-your-critical-thinking-erick-wilberding",
     "categories": [
-      "philosofy",
+      "philosophy",
       "politics"
     ],
     "title": "This tool will help improve your critical thinking - Erick Wilberding",
@@ -593,7 +593,7 @@ window.VIDEO_LIBRARY = [
     "categories": [
       "science-related",
       "mathematics",
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Most Controversial Problem in Philosophy",
     "creator": "Veritasium",
@@ -613,7 +613,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "when-a-dying-hitchens-dropped-truth-bomb-on-muslim-propaganda-brilliant",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "When a Dying Hitchens Dropped TRUTH Bomb on Muslim Propaganda (Brilliant!)",
@@ -634,7 +634,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-most-influential-philosophers-explained-in-26-minutes",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Most Influential Philosophers Explained in 26 Minutes",
     "creator": "Jaydone History",
@@ -654,7 +654,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "when-christopher-hitchens-trashed-al-sharpton-on-god-brutal",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "When Christopher Hitchens TRASHED Al Sharpton on GOD (Brutal)",
@@ -675,7 +675,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "are-you-f-cking-serious-when-hitchens-torched-d-souza-on-religion",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "“Are You F*cking Serious?”—When Hitchens TORCHED D’Souza on Religion",
@@ -696,7 +696,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "8-impossible-thought-experiments-cosmic-skeptic",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "8 Impossible Thought Experiments - Cosmic Skeptic",
     "creator": "Chris Williamson",
@@ -716,7 +716,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "how-to-make-your-opponent-prove-your-point-for-you",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "How to Make Your Opponent Prove Your Point FOR You",
@@ -737,7 +737,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "debate-free-will-do-you-have-it-alex-o-connor-vs-craig-biddle",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "DEBATE: Free Will—Do You Have It? | Alex O’Connor vs. Craig Biddle",
     "creator": "Craig Biddle",
@@ -757,7 +757,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "plato-s-republic-an-in-depth-guide",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "Plato's Republic: An In-Depth Guide",
@@ -778,7 +778,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "do-you-really-exist-vsauce-explains",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "Do \"You\" Really Exist? - Vsauce Explains",
@@ -799,7 +799,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "everything-you-need-to-know-about-ethics-alex-o-connor",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Everything You Need to Know About Ethics - Alex O'Connor",
     "creator": "More Alex O'Connor",
@@ -819,7 +819,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "deconstructing-ben-shapiro-s-religious-argument-from-change",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "Deconstructing Ben Shapiro’s Religious Argument From Change",
@@ -840,7 +840,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "atheists-cannot-have-morality-atheists-respond",
     "categories": [
-      "philosofy",
+      "philosophy",
       "religion"
     ],
     "title": "Atheists Cannot Have Morality - Atheists Respond",
@@ -861,7 +861,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-biggest-objection-to-my-ethical-worldview",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The Biggest Objection to My Ethical Worldview",
     "creator": "More Alex O'Connor",
@@ -881,7 +881,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "how-does-consciousness-actually-exist",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "How Does Consciousness Actually Exist?",
     "creator": "More Alex O'Connor",
@@ -902,7 +902,7 @@ window.VIDEO_LIBRARY = [
     "id": "islamic-apologetics-at-its-finest-casually-debunked",
     "categories": [
       "religion",
-      "philosofy"
+      "philosophy"
     ],
     "title": "Islamic apologetics at its FINEST | Casually Debunked",
     "creator": "Rationality Rules",
@@ -922,7 +922,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "why-people-mistake-feelings-for-moral-insight-alex-o-connor",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Why people mistake feelings for moral insight | Alex O'Connor",
     "creator": "Big Think Clips",
@@ -942,7 +942,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "andrew-schulz-gets-his-ethics-tested-by-alex-o-connor",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Andrew Schulz Gets His Ethics Tested by Alex O’Connor",
     "creator": "More Alex O'Connor",
@@ -962,7 +962,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "atheists-can-t-use-reason-a-christian-presses-alex",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "\"Atheists Can't Use Reason!\" - A Christian Presses Alex",
     "creator": "More Alex O'Connor",
@@ -982,7 +982,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "why-is-there-something-rather-than-nothing-all-roads-lead-to-russell",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Why is there something rather than nothing? (All Roads Lead to Russell)",
     "creator": "Rationality Rules",
@@ -1002,7 +1002,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-ai-paradox",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "The AI Paradox",
@@ -1023,7 +1023,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "plato-s-allegory-of-the-cave-alex-gendler",
     "categories": [
-      "philosofy",
+      "philosophy",
       "science-related"
     ],
     "title": "Plato’s Allegory of the Cave - Alex Gendler",
@@ -1044,7 +1044,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "is-life-meaningless-and-other-absurd-questions-nina-medvinskaya",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "Is life meaningless? And other absurd questions -  Nina Medvinskaya",
     "creator": "TED-Ed",
@@ -1064,7 +1064,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "the-philosophy-of-stoicism-massimo-pigliucci",
     "categories": [
-      "philosofy"
+      "philosophy"
     ],
     "title": "The philosophy of Stoicism - Massimo Pigliucci",
     "creator": "TED-Ed",

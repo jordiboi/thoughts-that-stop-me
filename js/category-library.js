@@ -209,8 +209,41 @@
       categoryList.appendChild(link);
     });
 
+    /*
+      All videos is a permanent system category. It is deliberately
+      appended after the sorted user categories so favorites and A-Z
+      sorting can never move it away from the bottom of the list.
+    */
+    const allVideosLink = document.createElement("a");
+    allVideosLink.className = "category-link card category-link-all-videos";
+    allVideosLink.href = "categories/all-videos.html";
+    allVideosLink.dataset.search =
+      "All videos every published video complete library";
+
+    allVideosLink.innerHTML = `
+      <div>
+        <span class="category-number">
+          ${String(sortedCategories.length + 1).padStart(2, "0")}
+        </span>
+
+        <h3>All videos</h3>
+
+        <p>
+          Browse every published video in the library, regardless of category.
+        </p>
+      </div>
+
+      <span class="category-arrow" aria-hidden="true">→</span>
+    `;
+
+    categoryList.appendChild(allVideosLink);
+
     if (emptyMessage) {
-      emptyMessage.hidden = categories.length !== 0;
+      /*
+        The system category is always available, even when there are no
+        ordinary categories containing published videos yet.
+      */
+      emptyMessage.hidden = true;
     }
   };
 

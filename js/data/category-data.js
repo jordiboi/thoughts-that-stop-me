@@ -12,9 +12,9 @@ window.VIDEO_CATEGORIES = [
     "favorite": true
   },
   {
-    "slug": "philosofy",
-    "name": "Philosofy",
-    "page": "categories/philosofy.html",
+    "slug": "philosophy",
+    "name": "Philosophy",
+    "page": "categories/philosophy.html",
     "description": "Any video from theory to dilemmas.",
     "favorite": true
   },
@@ -64,7 +64,7 @@ window.VIDEO_CATEGORIES = [
     "slug": "mathematics",
     "name": "Mathematics",
     "page": "categories/mathematics.html",
-    "description": "Anything math. Make sure to search for 'BIS', 'neat' and 'problems'. These are the best sub-categorizes.",
+    "description": "Anything math. Make sure to search for 'BIS', 'neat' and 'problems'. These are the best subcategories.",
     "favorite": true
   },
   {
@@ -75,9 +75,9 @@ window.VIDEO_CATEGORIES = [
     "favorite": false
   },
   {
-    "slug": "food-and-recipies",
-    "name": "Food and recipies",
-    "page": "categories/food-and-recipies.html",
+    "slug": "food-and-recipes",
+    "name": "Food and recipes",
+    "page": "categories/food-and-recipes.html",
     "description": "My favorite food videos.",
     "favorite": false
   },

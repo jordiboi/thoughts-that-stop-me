@@ -180,9 +180,9 @@
     {
       "id": "tanka-och-handla-som-en-larare",
       "name": "Tänka och Handla som en Lärare",
-      "color": "#777777",
-      "description": "",
-      "published": false,
+      "color": "#808040",
+      "description": "För kursen Allmändidaktik 1.",
+      "published": true,
       "cards": [
         {
           "id": "card-1788254230343-gp9m",
@@ -211,58 +211,28 @@
         },
         {
           "id": "card-1788254234997-ygoq",
-          "question": "",
-          "answer": ""
+          "question": "Didaktiska frågorna",
+          "answer": "Vad? Hur? Varför? (Vem? När? Var?)"
         },
         {
           "id": "card-1788254235146-phh5",
-          "question": "",
-          "answer": ""
+          "question": "Didaktiska triangeln ",
+          "answer": "Beskriver relationer mellan faktorer som definierar didaktik. Faktorerna är Elev, Lärare och Ämnet. "
         },
         {
           "id": "card-1788254235295-422a",
-          "question": "",
-          "answer": ""
+          "question": "Pedagogik (Enligt didaktiska triangeln)",
+          "answer": "Alla relationer mellan didaktiska triangelns faktorer OCH alla möjliga ramfaktorer som rör inlärning.  "
         },
         {
           "id": "card-1788254235445-ylen",
-          "question": "",
-          "answer": ""
+          "question": "Hur kan undervisning tolkas utav den didaktiska triangeln?",
+          "answer": "Det är en relation mellan läraren och relationen mellan elev och ämnet. "
         },
         {
           "id": "card-1788254235589-x84h",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254235739-1gbm",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254235887-66il",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254236044-1s34",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254236195-wa3i",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254236330-iocg",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788254236551-dexe",
-          "question": "",
-          "answer": ""
+          "question": "Vilka kvaliteter är viktiga för undervisning?",
+          "answer": "Intentionell, intersubjektiv, interaktiv."
         }
       ],
       "pdfPath": "assets/studies/flashcards/t-nka-och-handla-som-en-l-rare-flash-cards.pdf"

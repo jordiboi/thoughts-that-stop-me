@@ -1084,7 +1084,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "casually-explained-reddit",
     "categories": [
-      "funny-hoho"
+      "memes"
     ],
     "title": "Casually Explained: Reddit",
     "creator": "Casually Explained",
@@ -1300,7 +1300,7 @@ window.VIDEO_LIBRARY = [
   {
     "id": "headbuttbaptism",
     "categories": [
-      "funny-hoho"
+      "memes"
     ],
     "title": "headbuttbaptism",
     "creator": "",

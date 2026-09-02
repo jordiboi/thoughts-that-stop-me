@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pages": {
-    "home": true,
+    "home": false,
     "videos": false,
     "writing": false,
     "projects": false,

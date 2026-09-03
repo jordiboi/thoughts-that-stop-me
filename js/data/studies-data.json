@@ -1,6 +1,16 @@
 {
   "version": 1,
-  "texts": [],
+  "texts": [
+    {
+      "id": "8164ef3a1efa",
+      "title": "Dahlöf (1999)",
+      "category": "",
+      "description": "En utav källorna som Rytler m.fl (2024) använder. \nHandlar om ramfaktorer.",
+      "published": true,
+      "mime": "application/pdf",
+      "path": "assets/studies/texts/8164ef3a1efa-ojsadmin-2.dahlloef.pdf"
+    }
+  ],
   "flashcardDecks": [
     {
       "id": "begreppslista-pedagogik",
@@ -226,37 +236,27 @@
         },
         {
           "id": "card-1788254235445-ylen",
-          "question": "Hur kan undervisning tolkas utav den didaktiska triangeln?",
+          "question": "Vad är undervisning för typ av relation enligt den didaktiska triangeln?\n(Kap 2 och 5)",
           "answer": "Det är en relation mellan läraren och relationen mellan elev och ämnet. "
         },
         {
           "id": "card-1788254235589-x84h",
-          "question": "Vilka kvaliteter är viktiga för undervisning?",
+          "question": "Vilka kvaliteter är viktiga för undervisning?\n(Föreläsning 2, behöver kanske inte kunna)",
           "answer": "Intentionell, intersubjektiv, interaktiv."
         },
         {
           "id": "card-1788340469208-bs1x",
-          "question": "Ramfaktorer (enligt Rizzler)",
-          "answer": "Faktorer som påverkar didaktik och elevens inlärningsprocess, men som en lärare inte kan kontrollera.  "
+          "question": "Ramfaktorer (enligt Rizzler)\n(Kap 7)",
+          "answer": "Faktorer som påverkar didaktik och elevens inlärningsprocess, men som en lärare inte kan kontrollera.\n(MEN, som de ändå kan förhålla sig till!)"
         },
         {
           "id": "card-1788340469376-txnm",
-          "question": "",
+          "question": "Läroplan\n(Kap 7)",
           "answer": ""
         },
         {
           "id": "card-1788340469547-zw3c",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788340469716-e13e",
-          "question": "",
-          "answer": ""
-        },
-        {
-          "id": "card-1788340469935-qgcj",
-          "question": "",
+          "question": "Läroplanskod\n(Kap 7)",
           "answer": ""
         }
       ],

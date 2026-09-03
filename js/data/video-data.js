@@ -5,6 +5,918 @@
 
 window.VIDEO_LIBRARY = [
   {
+    "id": "the-problem-with-science-communication",
+    "categories": [
+      "science-related"
+    ],
+    "title": "The Problem With Science Communication",
+    "creator": "Veritasium",
+    "youtubeId": "czjisEGe5Cw",
+    "description": "Why the world loses the trust in science.",
+    "keywords": [
+      "Science",
+      "studies",
+      "fake",
+      "news",
+      "fake-news"
+    ],
+    "reviewPage": "../reviews/the-problem-with-science-communication.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "importedDraft": false
+  },
+  {
+    "id": "one-of-the-world-s-greatest-mathematicians-explains-6-essential-concepts-of-math",
+    "categories": [
+      "mathematics"
+    ],
+    "title": "One of the world's greatest mathematicians explains 6 essential concepts of math | Terence Tao",
+    "creator": "Big Think",
+    "youtubeId": "OOMx2BHHWtE",
+    "description": "6 essential conceps of math.",
+    "keywords": [
+      "Math"
+    ],
+    "reviewPage": "../reviews/one-of-the-world-s-greatest-mathematicians-explains-6-essential-concepts-of-math.html",
+    "review": {
+      "html": "1. Numbers&nbsp;<div>Numbers let us turn quantities into something precise: how many, how large, how far, how fast. The important leap is that numbers aren't just for counting, they let us compare and reason quantitatively.</div><div><br></div>2. Algebra&nbsp;<br>Instead of solving one specific problem, algebra lets you describe a general relationship. For example, \\(d = vt\\) captures the relationship between distance, speed, and time for infinitely many situations.<br><div>Algebra turns individual calculations into general rules.</div><div><br></div>3. Geometry&nbsp;<br>Geometry studies shapes, distances, angles, dimensions, and how objects relate spatially. Modern geometry goes much further than triangles and circles, it can describe curved spaces and even higher dimensions.<br><div>Geometry gives mathematics a way to reason about space and structure.</div><div><br></div>4. Probability&nbsp;<br>We often can't know exactly what will happen, but probability lets us say what is likely to happen. That's fundamental in statistics, science, finance, AI, medicine, etc.<br><div>Uncertainty doesn't mean we can't reason mathematically about something.</div><div><br></div>5. Analysis&nbsp;<div>Analysis is where ideas like calculus come from. It allows us to understand things that change continuously by making increasingly accurate approximations. For example, instantaneous speed comes from looking at smaller and smaller intervals of time.<br>You can understand something extremely complicated by approximating it and controlling the error.</div><div><br></div>6. Dynamics&nbsp;<br>Dynamics asks: If I know the rules and the current situation, what happens next? It applies to planets, weather, populations, traffic, economies, etc. Importantly, very simple rules can sometimes produce extremely complicated or chaotic behavior.",
+      "text": "1. Numbers Numbers let us turn quantities into something precise: how many, how large, how far, how fast. The important leap is that numbers aren't just for counting, they let us compare and reason quantitatively.2. Algebra Instead of solving one specific problem, algebra lets you describe a general relationship. For example, \\(d = vt\\) captures the relationship between distance, speed, and time for infinitely many situations.Algebra turns individual calculations into general rules.3. Geometry Geometry studies shapes, distances, angles, dimensions, and how objects relate spatially. Modern geometry goes much further than triangles and circles, it can describe curved spaces and even higher dimensions.Geometry gives mathematics a way to reason about space and structure.4. Probability We often can't know exactly what will happen, but probability lets us say what is likely to happen. That's fundamental in statistics, science, finance, AI, medicine, etc.Uncertainty doesn't mean we can't reason mathematically about something.5. Analysis Analysis is where ideas like calculus come from. It allows us to understand things that change continuously by making increasingly accurate approximations. For example, instantaneous speed comes from looking at smaller and smaller intervals of time.You can understand something extremely complicated by approximating it and controlling the error.6. Dynamics Dynamics asks: If I know the rules and the current situation, what happens next? It applies to planets, weather, populations, traffic, economies, etc. Importantly, very simple rules can sometimes produce extremely complicated or chaotic behavior."
+    },
+    "customThumbnail": "",
+    "published": true,
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "importedDraft": false
+  },
+  {
+    "id": "they-just-burned-it-all",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "They just burned it all..",
+    "creator": "decoy",
+    "youtubeId": "ExAoiy3Hrzs",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/they-just-burned-it-all.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "i-changed-my-mind-about-consciousness",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "I Changed My Mind About Consciousness.",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "VmsNFR15-CQ",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/i-changed-my-mind-about-consciousness.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "alex-o-connor-confronts-destiny-about-controversial-tweets",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Alex O'Connor Confronts Destiny About Controversial Tweets",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "nbnwnyvy7rU",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/alex-o-connor-confronts-destiny-about-controversial-tweets.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "flock-ai-camera-ceo-wants-to-compromise-as-tiktok-destruction-continues",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Flock AI Camera CEO Wants to Compromise As TikTok Destruction Continues",
+    "creator": "Atozy",
+    "youtubeId": "HVa_ROiM2Ys",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/flock-ai-camera-ceo-wants-to-compromise-as-tiktok-destruction-continues.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "do-we-actually-know-what-s-inside-the-nucleus",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Do We ACTUALLY Know What’s Inside the Nucleus?",
+    "creator": "Physics Explained",
+    "youtubeId": "BLUlTsdPEwY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/do-we-actually-know-what-s-inside-the-nucleus.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "can-you-ever-explain-color-to-a-blind-person",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Can You Ever Explain Color to a Blind Person?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "pYuMsNOMkgE",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/can-you-ever-explain-color-to-a-blind-person.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "it-is-actually-the-end-of-hasan-piker",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "It is actually the end of Hasan Piker..",
+    "creator": "Asmongold TV",
+    "youtubeId": "VeMMBdUA3pg",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/it-is-actually-the-end-of-hasan-piker.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "why-gravity-still-confuses-scientists",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Why Gravity Still Confuses Scientists",
+    "creator": "Some Guy Who Knows Stuff",
+    "youtubeId": "QnowQk3mPVk",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/why-gravity-still-confuses-scientists.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "isis-was-the-biggest-story-on-earth-then-it-vanished",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "ISIS was the biggest story on Earth ... then it vanished",
+    "creator": "Elephants in Rooms - Ken LaCorte",
+    "youtubeId": "7e8fVvNT2yc",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/isis-was-the-biggest-story-on-earth-then-it-vanished.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "why-80-of-doctors-got-this-wrong",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Why 80% of doctors got this wrong",
+    "creator": "Elephants in Rooms - Ken LaCorte",
+    "youtubeId": "qLhsGK1CbkY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/why-80-of-doctors-got-this-wrong.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "the-thought-experiment-tier-list",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "The Thought Experiment Tier List",
+    "creator": "Unsolicited advice",
+    "youtubeId": "DMyiPp8wBO0",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/the-thought-experiment-tier-list.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "which-animal-has-the-best-eyesight-thomas-w-cronin",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Which animal has the best eyesight? - Thomas W. Cronin",
+    "creator": "TED-Ed",
+    "youtubeId": "QjVqIW281Qo",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/which-animal-has-the-best-eyesight-thomas-w-cronin.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "can-you-choose-to-have-faith-in-god",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Can You 'Choose' to Have Faith in God?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "t1p1WU_ORyo",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/can-you-choose-to-have-faith-in-god.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "why-is-black-america-so-racist",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Why Is Black America So Racist?",
+    "creator": "Basic Logic",
+    "youtubeId": "WunIYGEYeD0",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/why-is-black-america-so-racist.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "politicians-actually-don-t-need-bribes-here-s-how-it-works",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Politicians actually don't need bribes. Here's how it works.",
+    "creator": "Elephants in Rooms - Ken LaCorte",
+    "youtubeId": "zFbjq5oFvrQ",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/politicians-actually-don-t-need-bribes-here-s-how-it-works.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "why-alex-o-connor-believes-there-is-a-45-chance-that-some-sort-of-god-exists",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Why Alex O'Connor Believes There is a 45% Chance That Some Sort of God Exists",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "NZALa05mkQg",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/why-alex-o-connor-believes-there-is-a-45-chance-that-some-sort-of-god-exists.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "neuroscience-is-in-big-trouble",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Neuroscience is in big trouble",
+    "creator": "Sabine Hossenfelder",
+    "youtubeId": "jHGx7HBB-J4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/neuroscience-is-in-big-trouble.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "completely-wrong-history-facts-you-probably-still-believe",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Completely Wrong History \"Facts\" You Probably Still Believe",
+    "creator": "Kelevin",
+    "youtubeId": "ju3wJYHabPQ",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/completely-wrong-history-facts-you-probably-still-believe.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "islam-all-arguments-ranked-debunked",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Islam: All Arguments Ranked & Debunked",
+    "creator": "Basic Logic",
+    "youtubeId": "G_9OPDRS5CY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/islam-all-arguments-ranked-debunked.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "who-actually-discovered-the-pythagorean-theorem-the-real-history-everyone-should",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Who Actually Discovered The Pythagorean Theorem? The Real History Everyone Should Learn",
+    "creator": "MindYourDecisions",
+    "youtubeId": "u7OR9pjOr-o",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/who-actually-discovered-the-pythagorean-theorem-the-real-history-everyone-should.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "god-maximally-evil",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "God: Maximally Evil?",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "Ck77v_2BWOY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/god-maximally-evil.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "untitled-video",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Untitled video",
+    "creator": "",
+    "youtubeId": "XirpT0vVkRI",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/untitled-video.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "nick-chance-were-not-ready-for-this-story-to-come-out",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Nick & Chance Were Not Ready for This Story to Come Out 👀",
+    "creator": "Katchii&NickClips",
+    "youtubeId": "LpauB09yZo4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/nick-chance-were-not-ready-for-this-story-to-come-out.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "untitled-video",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Untitled video",
+    "creator": "",
+    "youtubeId": "PNAgnrzyYrc",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/untitled-video.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "the-time-paradox-that-challenges-god",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "The Time Paradox That Challenges God",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "9qQ_qoL6Tg0",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/the-time-paradox-that-challenges-god.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "there-is-more-than-enough-out-there-to-make-religious-belief-obligatory-ross-dou",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "\"There is More Than Enough Out There to Make Religious Belief Obligatory\"  -  Ross Douthat",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "Wx3WgoqVsoc",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/there-is-more-than-enough-out-there-to-make-religious-belief-obligatory-ross-dou.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "jordan-peterson-vs-20-atheists-surrounded",
+    "createdAt": "2026-09-02T17:56:13.518Z",
+    "categories": [],
+    "title": "Jordan Peterson vs 20 Atheists | Surrounded",
+    "creator": "Jubilee",
+    "youtubeId": "Pwk5MPE_6zE",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/jordan-peterson-vs-20-atheists-surrounded.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "the-four-horsemen-hd-hour-1-of-2-discussions-with-richard-dawkins-ep-1",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "The Four Horsemen HD: Hour 1 of 2 - Discussions with Richard Dawkins, Ep 1",
+    "creator": "Richard Dawkins Foundation for Reason & Science",
+    "youtubeId": "9DKhc1pcDFM",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/the-four-horsemen-hd-hour-1-of-2-discussions-with-richard-dawkins-ep-1.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "trans-when-ideology-meets-reality-my-conversation-with-helen-joyce",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "\"Trans: When Ideology Meets Reality\" - My conversation with Helen Joyce",
+    "creator": "The Poetry of Reality with Richard Dawkins",
+    "youtubeId": "hu72Lu5FqE4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/trans-when-ideology-meets-reality-my-conversation-with-helen-joyce.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "courage-to-be-honest-on-stage-with-ricky-gervais",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "Courage to Be Honest - On Stage with Ricky Gervais",
+    "creator": "The Poetry of Reality with Richard Dawkins",
+    "youtubeId": "zBLdMmNuHlQ",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/courage-to-be-honest-on-stage-with-ricky-gervais.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "why-did-millions-actually-support-nazism",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "Why Did Millions Actually Support Nazism?",
+    "creator": "Basic Logic",
+    "youtubeId": "CF0sqvpyp7U",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/why-did-millions-actually-support-nazism.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "racial-egalitarianism-all-arguments-ranked-debunked",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "Racial Egalitarianism: All Arguments Ranked & Debunked",
+    "creator": "Basic Logic",
+    "youtubeId": "aVZ2I4lzUlI",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/racial-egalitarianism-all-arguments-ranked-debunked.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "every-anti-theist-argument-ranked-debunked",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "Every Anti-Theist Argument Ranked & Debunked",
+    "creator": "Basic Logic",
+    "youtubeId": "BLIzgXyyCiE",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/every-anti-theist-argument-ranked-debunked.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "am-i-responsible-for-woke-nonsense-a-conversation-with-alex-o-connor-in-oxford",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "Am I responsible for WOKE Nonsense?  |  A Conversation with Alex O' Connor in Oxford",
+    "creator": "The Poetry of Reality with Richard Dawkins",
+    "youtubeId": "d9AWX9fRlIs",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/am-i-responsible-for-woke-nonsense-a-conversation-with-alex-o-connor-in-oxford.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "the-annoying-orange",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "The Annoying Orange",
+    "creator": "Dane Boe",
+    "youtubeId": "ZN5PoW7_kdA",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/the-annoying-orange.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "it-s-peanut-butter-jelly-time",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "It's Peanut Butter Jelly Time!!!",
+    "creator": "AlbinoBlackSheep",
+    "youtubeId": "Z3ZAGBL6UBA",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/it-s-peanut-butter-jelly-time.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "hastily-made-cleveland-tourism-video",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "HASTILY MADE CLEVELAND TOURISM VIDEO",
+    "creator": "bishopvids",
+    "youtubeId": "ysmLA5TqbIY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/hastily-made-cleveland-tourism-video.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "my-heart-will-go-on-recorder-by-candlelight-by-matt-mulholland",
+    "createdAt": "2026-09-02T17:56:13.517Z",
+    "categories": [],
+    "title": "My Heart Will Go On - Recorder By Candlelight by Matt Mulholland",
+    "creator": "Matt Mulholland YouTube",
+    "youtubeId": "X2WH8mHJnhM",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/my-heart-will-go-on-recorder-by-candlelight-by-matt-mulholland.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "weird-russian-singer-chum-drum-bedrum",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Weird russian singer - Chum Drum Bedrum",
+    "creator": "Random Channel",
+    "youtubeId": "tVj0ZTS4WF4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/weird-russian-singer-chum-drum-bedrum.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "rappin-for-jesus",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Rappin' for Jesus",
+    "creator": "Brian Spinney",
+    "youtubeId": "Kppx4bzfAaE",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/rappin-for-jesus.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "heyyeyaaeyaaaeyaeyaa",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "HEYYEYAAEYAAAEYAEYAA",
+    "creator": "ProtoOfSnagem",
+    "youtubeId": "ZZ5LpwO-An4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/heyyeyaaeyaaaeyaeyaa.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "trololo-sing-along",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Trololo Sing Along!",
+    "creator": "Skip Everling",
+    "youtubeId": "2Z4m4lnjxkY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/trololo-sing-along.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "potter-puppet-pals-the-mysterious-ticking-noise",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Potter Puppet Pals: The Mysterious Ticking Noise",
+    "creator": "Neil Cicierega",
+    "youtubeId": "Tx1XIm6q4r4",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/potter-puppet-pals-the-mysterious-ticking-noise.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "spelling-bee-i-have-to-spell-niggas",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Spelling bee: I have to spell Niggas???",
+    "creator": "la4hi0rocks",
+    "youtubeId": "AsFCSvqsqFA",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/spelling-bee-i-have-to-spell-niggas.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "star-wars-kid",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Star Wars Kid",
+    "creator": "Jimi Love",
+    "youtubeId": "HPPj6viIBmU",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/star-wars-kid.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "miss-teen-usa-2007-south-carolina-answers-a-question",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Miss Teen USA 2007 - South Carolina answers a question",
+    "creator": "IRamzayI",
+    "youtubeId": "lj3iNxZ8Dww",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/miss-teen-usa-2007-south-carolina-answers-a-question.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "the-duck-song",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "The Duck Song",
+    "creator": "forrestfire101",
+    "youtubeId": "MtN1YnoL46Q",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/the-duck-song.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
+    "id": "animals-to-me-are-philosophical-zombies-destiny",
+    "createdAt": "2026-09-02T17:56:13.516Z",
+    "categories": [],
+    "title": "Animals to me are \"Philosophical Zombies\" - Destiny",
+    "creator": "More Alex O'Connor",
+    "youtubeId": "RtpLbmr4ijY",
+    "description": "",
+    "keywords": [],
+    "reviewPage": "../reviews/animals-to-me-are-philosophical-zombies-destiny.html",
+    "review": {
+      "html": "",
+      "text": ""
+    },
+    "customThumbnail": "",
+    "published": false,
+    "importedDraft": true
+  },
+  {
     "id": "crash-course-philosophy-preview",
     "categories": [
       "philosophy"

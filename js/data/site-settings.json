@@ -1,10 +1,15 @@
 {
   "version": 1,
   "pages": {
-    "home": false,
-    "videos": false,
-    "writing": false,
-    "projects": false,
+    "home": true,
+    "videos": true,
+    "writing": true,
+    "projects": true,
     "studies": true
+  },
+  "homeText": "I'm trying to make sense of it all, and I got tired of collecting all my thoughts from some personalized algorithm that decides how I'm manipulated. I created this blog for me to collect my thoughts and sources of information about anything.\n\nI want to create order out of chaos and tone down the harsh voices that too easily manifest inside my head...\n\nMy goal for myself is to always stay true to myself and strive for truth.\n\nI always want to be a non-resistant believer or non-believer in all ideas. I always want to argue using the same language and definitions as my peers, rather than using semantic arguments, and always argue in good faith.\n\nThis is hard for me, because of a few beliefs and ideas that hold on to me tightly. But I swear to try.\n\nI think I need to start accepting that the world is cruel and awful at times, but I can certainly also do a better job at trying to see the good within it as well.",
+  "guestbook": {
+    "supabaseUrl": "",
+    "publishableKey": ""
   }
 }

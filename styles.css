@@ -172,7 +172,7 @@ a {
 }
 
 .logo {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(1.3rem, 2.1vw, 1.9rem);
   text-decoration: none;
   letter-spacing: -0.04em;
@@ -241,8 +241,8 @@ a {
 
 .title-block h1 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(3.3rem, 8vw, 7.3rem);
+  font-family: "Neue Montreal", "Helvetica Neue", Arial, sans-serif;
+  font-size: clamp(2.65rem, 6.2vw, 5.6rem);
   font-weight: 400;
   line-height: 0.95;
   letter-spacing: -0.065em;
@@ -285,7 +285,11 @@ a {
 
 .welcome-panel p {
   max-width: 48ch;
-  margin: 0.35rem auto;
+  margin: 0 auto 1.15rem;
+}
+
+.welcome-panel p:last-of-type {
+  margin-bottom: 0;
 }
 
 .outline-button {
@@ -477,8 +481,8 @@ a {
 .page-heading h1 {
   max-width: 900px;
   margin: 0 0 1.25rem;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2.8rem, 7vw, 5.5rem);
+  font-family: "Neue Montreal", "Helvetica Neue", Arial, sans-serif;
+  font-size: clamp(2.55rem, 6vw, 5rem);
   font-weight: 400;
   line-height: 0.98;
   letter-spacing: -0.055em;
@@ -861,7 +865,7 @@ a {
 .full-review-header h1 {
   max-width: 900px;
   margin: 0 0 1rem;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Neue Montreal", "Helvetica Neue", Arial, sans-serif;
   font-size: clamp(2.8rem, 7vw, 5.5rem);
   font-weight: 400;
   line-height: 1;
@@ -1102,7 +1106,7 @@ a {
 
 .writing-article h1 {
   margin: 0 0 0.7rem;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Neue Montreal", "Helvetica Neue", Arial, sans-serif;
   font-size: clamp(2.8rem, 7vw, 5.3rem);
   font-weight: 400;
   line-height: 1;
@@ -1488,3 +1492,466 @@ a {
 /* Beta 08: Shift preview now lives inside the modal dialog's top layer. */
 #flash-rules-dialog { overflow:visible; }
 #flash-rules-dialog .flash-tooltip { z-index:2147483647; }
+
+
+/* ================================================================
+   BETA 11 — "I was here" guestbook
+   ================================================================ */
+.site-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .65rem;
+}
+
+.guestbook-footer {
+  display: grid;
+  justify-items: center;
+  gap: .55rem;
+  width: min(100%, 520px);
+  margin: .15rem auto 0;
+}
+
+.guestbook-action {
+  display: inline-flex;
+  align-items: center;
+  gap: .55rem;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.guestbook-action:disabled {
+  cursor: default;
+  opacity: .72;
+}
+
+.guestbook-plus {
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-size: 1.05rem;
+  line-height: 1;
+  transition: transform .18s ease, background .18s ease;
+}
+
+.guestbook-action:not(:disabled):hover .guestbook-plus {
+  transform: rotate(90deg);
+}
+
+.guestbook-signature-row {
+  display: none;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: .45rem;
+  width: min(100%, 420px);
+}
+
+.guestbook-signature-row.is-open {
+  display: grid;
+}
+
+.guestbook-signature-row input {
+  min-width: 0;
+  padding: .55rem .65rem;
+  border: 1px solid currentColor;
+  border-radius: .45rem;
+  color: inherit;
+  background: rgba(255,255,255,.06);
+  font: inherit;
+}
+
+.guestbook-signature-row button {
+  padding: .5rem .75rem;
+  border: 1px solid currentColor;
+  border-radius: .45rem;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.guestbook-note {
+  min-height: 1.2em;
+  margin: 0;
+  font-size: .78rem;
+  opacity: .72;
+}
+
+@media (max-width: 520px) {
+  .guestbook-signature-row {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+}
+
+
+/* ================================================================
+   BETA 12 — consistent public footer
+   ================================================================ */
+
+/*
+  Every footer now follows one shared "menu box" footprint:
+  same width, border radius and glass-panel treatment on every page.
+*/
+.site-footer,
+.home-footer.site-footer {
+  box-sizing: border-box;
+  width: min(calc(100% - 3rem), var(--max-width));
+  min-height: 74px;
+  margin: 4rem auto 1.25rem;
+  padding: .85rem 1.2rem;
+  border: 1px solid var(--surface-border);
+  border-radius: 1rem;
+  background: rgba(8, 7, 14, 0.68);
+  backdrop-filter: blur(18px);
+}
+
+/* Undo the old home-footer full-width/standalone treatment. */
+.home-footer.site-footer {
+  position: relative;
+  left: auto;
+  right: auto;
+  bottom: auto;
+}
+
+/*
+  The guestbook begins as one compact horizontal line:
+  [ I was here  + ] [ signature field ] [ Sign ]
+*/
+.guestbook-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: .55rem;
+  width: 100%;
+  margin: 0;
+}
+
+.guestbook-signature-row {
+  display: none;
+  grid-template-columns: minmax(190px, 1fr) auto;
+  align-items: center;
+  gap: .45rem;
+  width: min(100%, 390px);
+}
+
+.guestbook-signature-row.is-open {
+  display: grid;
+}
+
+.guestbook-note {
+  flex: 0 0 100%;
+  width: 100%;
+  text-align: center;
+}
+
+/* Keep the old footer text compact and visually consistent. */
+.site-footer > p,
+.site-footer .anonymous-footer-inner {
+  margin: .1rem 0 0;
+  text-align: center;
+}
+
+.home-footer.site-footer .anonymous-footer-inner {
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .site-footer,
+  .home-footer.site-footer {
+    width: min(calc(100% - 2rem), var(--max-width));
+  }
+
+  .guestbook-footer {
+    flex-direction: column;
+  }
+
+  .guestbook-signature-row {
+    width: min(100%, 420px);
+  }
+}
+
+
+/* ================================================================
+   BETA 13 — fixed, full-width footer bar
+   ================================================================ */
+
+/*
+  Footer should behave like the top menu box:
+  - fixed visual height
+  - full page-width treatment with the same outer gutters
+  - does NOT grow taller because of page content
+  - guestbook stays centered inside the bar
+*/
+.site-footer,
+.home-footer.site-footer {
+  box-sizing: border-box;
+  width: calc(100% - 2rem);
+  max-width: none;
+  height: 74px;
+  min-height: 74px;
+  max-height: 74px;
+  margin: 3rem 1rem 1rem;
+  padding: 0 1.15rem;
+  border: 1px solid var(--surface-border);
+  border-radius: 1rem;
+  background: rgba(8, 7, 14, 0.68);
+  backdrop-filter: blur(18px);
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-footer.site-footer {
+  position: relative;
+  inset: auto;
+}
+
+/* The guestbook itself must never dictate the bar height. */
+.guestbook-footer {
+  width: auto;
+  max-width: calc(100% - 1rem);
+  margin: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: .55rem;
+}
+
+.guestbook-action {
+  flex: 0 0 auto;
+}
+
+.guestbook-signature-row {
+  width: 390px;
+  max-width: min(390px, 48vw);
+  display: none;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: .45rem;
+}
+
+.guestbook-signature-row.is-open {
+  display: grid;
+}
+
+/* Status floats below the fixed-height bar rather than making it grow. */
+.guestbook-note {
+  position: absolute;
+  left: 50%;
+  top: calc(100% + .35rem);
+  transform: translateX(-50%);
+  width: min(90vw, 520px);
+  margin: 0;
+  text-align: center;
+  pointer-events: none;
+}
+
+/* Old anonymous footer copy is intentionally removed in Beta 13. */
+.site-footer > p,
+.site-footer .anonymous-footer-inner {
+  display: none !important;
+}
+
+@media (max-width: 700px) {
+  .site-footer,
+  .home-footer.site-footer {
+    width: calc(100% - 1rem);
+    margin-left: .5rem;
+    margin-right: .5rem;
+    padding: 0 .75rem;
+  }
+
+  .guestbook-footer {
+    max-width: 100%;
+  }
+
+  .guestbook-signature-row {
+    width: min(52vw, 300px);
+    max-width: 52vw;
+  }
+}
+
+
+/* ================================================================
+   BETA 14 — footer mirrors the top menu bar
+   ================================================================ */
+.site-footer,
+.home-footer.site-footer {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: none;
+  height: 102px;
+  min-height: 102px;
+  max-height: 102px;
+  margin: 3rem 0 0;
+  padding: 0 clamp(1.5rem, 6vw, 6.5rem);
+
+  /* Mirror the top navigation: edge-to-edge rectangular bar. */
+  border: 0;
+  border-top: 1px solid var(--surface-border);
+  border-radius: 0;
+  background: rgba(8, 7, 14, 0.86);
+  backdrop-filter: blur(18px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.home-footer.site-footer {
+  position: relative;
+  inset: auto;
+}
+
+/* Guestbook stays centered inside the menu-like footer bar. */
+.site-footer .guestbook-footer,
+.home-footer.site-footer .guestbook-footer {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: .55rem;
+}
+
+@media (max-width: 700px) {
+  .site-footer,
+  .home-footer.site-footer {
+    width: 100%;
+    height: 88px;
+    min-height: 88px;
+    max-height: 88px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0;
+  }
+}
+
+
+/* ================================================================
+   BETA 15 — footer is the sibling/reflection of each page menu
+   ================================================================ */
+
+/*
+  Make short pages fill the viewport so the footer always lands on the
+  actual bottom edge rather than floating after a small amount of content.
+  Fixed/absolute background layers are unaffected by the flex flow.
+*/
+body.home-page,
+body.inner-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/*
+  Shared geometry: full viewport width, square outer edges, fixed height,
+  no space beneath it. margin-top:auto pushes it to the bottom on short pages.
+*/
+.site-footer,
+.home-footer.site-footer {
+  box-sizing: border-box;
+  flex: 0 0 102px;
+  width: 100%;
+  max-width: none;
+  height: 102px;
+  min-height: 102px;
+  max-height: 102px;
+  margin: auto 0 0;
+  padding: 0 clamp(1.5rem, 6vw, 6.5rem);
+  border: 0;
+  border-radius: 0 !important;
+  box-shadow: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  backdrop-filter: blur(18px);
+}
+
+/* HOME / PROJECTS / STUDIES:
+   same surface and divider as their sibling top menu. */
+.home-page .site-footer,
+.projects-page .site-footer,
+.studies-page .site-footer {
+  color: var(--muted);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(5, 4, 10, 0.55);
+}
+
+/* VIDEOS + video category/review family:
+   mirror the brown film menu exactly. */
+.film-page .site-footer {
+  color: var(--film-muted);
+  border-top: 1px solid rgba(255, 229, 177, 0.3);
+  background: rgba(28, 15, 8, 0.62);
+  box-shadow: 0 -0.5rem 2rem rgba(42, 20, 8, 0.12);
+}
+
+/* WRITING + writing article family:
+   mirror the parchment-colored writing menu. */
+.writing-page .site-footer,
+.writing-article-page .site-footer {
+  color: var(--paper-text);
+  border-top: 1px solid rgba(57, 36, 21, 0.5);
+  background: rgba(220, 188, 135, 0.82);
+  box-shadow: 0 -0.5rem 2rem rgba(65, 39, 18, 0.10);
+}
+
+/* Guestbook controls inherit their sibling footer/menu palette. */
+.writing-page .guestbook-action,
+.writing-article-page .guestbook-action,
+.writing-page .guestbook-signature-row button,
+.writing-article-page .guestbook-signature-row button,
+.writing-page .guestbook-signature-row input,
+.writing-article-page .guestbook-signature-row input {
+  color: var(--paper-text);
+}
+
+.writing-page .guestbook-signature-row input,
+.writing-article-page .guestbook-signature-row input {
+  background: rgba(246, 227, 190, 0.44);
+}
+
+/* Keep the contents centered, but never turn the footer itself into a card. */
+.site-footer .guestbook-footer,
+.home-footer.site-footer .guestbook-footer {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* The note may sit just above the bottom edge without changing footer height. */
+.guestbook-note {
+  top: auto;
+  bottom: .35rem;
+}
+
+@media (max-width: 700px) {
+  .site-footer,
+  .home-footer.site-footer {
+    flex-basis: 88px;
+    width: 100%;
+    height: 88px;
+    min-height: 88px;
+    max-height: 88px;
+    margin: auto 0 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0 !important;
+  }
+}

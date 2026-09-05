@@ -65,8 +65,9 @@
           <span class="guestbook-plus" aria-hidden="true">+</span>
         </button>
         <div class="guestbook-signature-row">
-          <input type="text" maxlength="160" aria-label="Leave a signature" placeholder="Leave a signature (optional)">
+          <input type="text" maxlength="160" aria-label="Leave a signature" placeholder="Leave a signature">
           <button type="button">Sign</button>
+          <a class="guestbook-visit-link" href="#" hidden>Visit guest book</a>
         </div>
         <p class="guestbook-note" aria-live="polite"></p>
       `;
@@ -77,9 +78,13 @@
       const signatureRow = box.querySelector(".guestbook-signature-row");
       const signatureInput = signatureRow.querySelector("input");
       const signButton = signatureRow.querySelector("button");
+      const visitLink = signatureRow.querySelector(".guestbook-visit-link");
       const note = box.querySelector(".guestbook-note");
+      const scriptUrl = new URL(document.currentScript ? document.currentScript.src : "js/script.js", window.location.href);
+      visitLink.href = new URL("../guestbook.html", scriptUrl).href;
 
       const joined = localStorage.getItem("tts-i-was-here") === "1";
+      if (localStorage.getItem("tts-guestbook-signed") === "1") visitLink.hidden = false;
       if (joined) {
         action.disabled = true;
         plus.textContent = "✓";
@@ -155,7 +160,15 @@
           localStorage.setItem("tts-i-was-here", "1");
           action.disabled = true;
           plus.textContent = "✓";
-          note.textContent = "Signature saved.";
+          if (signatureInput.value.trim()) {
+            localStorage.setItem("tts-guestbook-signed", "1");
+            visitLink.hidden = false;
+            note.textContent = "Signature saved.";
+          } else {
+            localStorage.removeItem("tts-guestbook-signed");
+            visitLink.hidden = true;
+            note.textContent = "Add a signature to unlock the guest book.";
+          }
         } catch (error) {
           note.textContent = error.message || "Could not save the signature.";
         } finally {

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guest book — Thoughts that Stop Me</title>
+  <link rel="stylesheet" href="styles.css?v=16">
+</head>
+<body class="guestbook-page">
+  <main class="guestbook-page-shell">
+    <nav class="guestbook-page-nav"><a href="index.html">Home</a><button id="guestbook-back" type="button">Go back</button></nav>
+    <header><h1>Guest book</h1><p>People who left a little mark behind.</p></header>
+    <p id="guestbook-page-status" aria-live="polite">Checking your signature...</p>
+    <div id="guestbook-page-list" class="guestbook-page-list"></div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/guestbook-page.js?v=16"></script>
+</body>
+</html>
